@@ -9,7 +9,7 @@ I'm a passionate developer with diverse interests spanning Web Developement, AI/
 
 * 💻 AI & Machine Learning
 * 🧠 Large Language Models (LLMs) & AI chatbots
-* ⚙️ Backend Development (Python, Flask)
+* ⚙️ Backend Development (Python,FastAPI,DJango,Flask)
 * 🌐 Web Application Development
 * 📱 Understanding Mobile & Web App Architecture
 * 🗄️ Databases & System Design
