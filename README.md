@@ -25,59 +25,23 @@ I'm a passionate developer with diverse interests spanning Web Developement, AI/
 
 ---
 
-## ⭐ LATEST PROJECTS
+## 🚀 FEATURED PROJECTS
 
-| 🎙️ **[NEXUSVoice]** | 🤖 **[PackTrust]** |
+| 🎙️ NEXUSVoice | 🤖 PackTrust |
 |---|---|
-| **[NEXUSVoice](https://github.com/ramen-sys/NEXUSVoice.git)**<br/>MCP-Powered Voice Agent with Database + Web Fallback , a fully local, intelligent voice agent . Using Whisper as an MCP tool, the agent transcribes speech directly from mic input, passes it to an LLM and from there, the real work begins. If the answer is present in your database, it fetches it immediately. If not, the agent doesn’t hallucinate <br/><br/>!![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square)
-![Whisper](https://img.shields.io/badge/Whisper-AI-10A37F?style=flat-square) | **[PackTrust](https://github.com/ramen-sys/PackTrust.git)**<br/>Multi-agent AI system that vets open-source packages in seconds, checks GitHub health, PyPI metadata, and real OSV.dev vulnerability data, then produces an auditable trust verdict. <br/><br/>!![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)
-![OSV.dev](https://img.shields.io/badge/OSV.dev-Vulnerability_DB-red?style=flat-square)
-![AI Agents](https://img.shields.io/badge/Multi--Agent_AI-000000?style=flat-square) |
+| **[NEXUSVoice](https://github.com/ramen-sys/NEXUSVoice.git)**<br><br>Local MCP-powered voice agent that transcribes speech with Whisper, retrieves answers from a knowledge base, and falls back to web search for reliable, hallucination-resistant responses.<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-000000?style=flat-square) ![Whisper](https://img.shields.io/badge/Whisper-AI-10A37F?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | **[PackTrust](https://github.com/ramen-sys/PackTrust.git)**<br><br>Multi-agent AI system that analyzes GitHub repositories, PyPI metadata, and OSV.dev vulnerabilities to generate transparent software trust reports.<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white) ![AI](https://img.shields.io/badge/Multi--Agent_AI-000000?style=flat-square) |
 
 ---
 
-## 🔥 MORE PROJECTS
+## 🧩 ADDITIONAL PROJECTS
 
-| 💎 **[HarvestHUB](https://github.com/ramen-sys/harvesthub_dbms.git)** | 🔄 **[RAMZ](https://github.com/ramen-sys/Huffman-Compression-System.git)** | 🧠 **[SENTRIX](https://github.com/ramen-sys/Machine-Failure-Prediction-System.git)** |
+| 🌾 HarvestHub | 🔄 RAMZ | 🧠 SENTRIX |
 |---|---|---|
-|HarvestHUB is an agricultural field management system that connects farmers, agronomists, and admins through a role-based platform. It helps manage fields, crop cycles, satellite observations, weather data, alerts, and derived metrics  | An interactive Python implementation of Huffman coding for file compression. Uses heaps and trees to encode data efficiently, supports compression/decompression, maintains history logs, and compares performance with Python’s zlib | A Machine Failure Prediction System that Analyzes Machine characterstics and predicts whether it will fail or not |
-|![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-00599C?style=flat-square)
-![Data%20Structures](https://img.shields.io/badge/Data_Structures-4CAF50?style=flat-square)
-![Compression](https://img.shields.io/badge/Lossless_Compression-FF9800?style=flat-square) |![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)|
+| **[HarvestHub](https://github.com/ramen-sys/harvesthub_dbms.git)**<br><br>Role-based agricultural management platform for farmers and agronomists featuring crop lifecycle tracking, weather insights, satellite observations, and secure authentication.<br><br>![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | **[RAMZ](https://github.com/ramen-sys/Huffman-Compression-System.git)**<br><br>Desktop Huffman compression system supporting compression, decompression, history tracking, and performance comparison using efficient tree-based encoding.<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-00599C?style=flat-square) ![Compression](https://img.shields.io/badge/Lossless_Compression-FF9800?style=flat-square) | **[SENTRIX](https://github.com/ramen-sys/Machine-Failure-Prediction-System.git)**<br><br>Machine learning web application that predicts equipment failures from operational data using Scikit-learn with an interactive frontend.<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
-| 📧 **[MedBOT](https://github.com/ramen-sys/med_bot.git)** | 🩺 **[Prompt Comparator](https://github.com/ramen-sys/Prompt_Comparator.git)** | 🧮 **[Car-Rental-System](https://github.com/ramen-sys/Car-Rental-System.git)** |
+| 🩺 MedBOT | 💬 Prompt Comparator | 🚗 Car Rental System |
 |---|---|---|
-| Medical Chatbot using Hugging Face, RAG, LAngchain and FAISS| a Streamlit app that compares zero-shot vs few-shot vs chain-of-thought side by side on the same input. With a token counter. Deployed it publicly with a real URL | A complete Car Rental System built in Python using OOP concepts. The system supports multiple cars, customer management, rental packages, rental limits (one car per user), late return fines, and a simulated online payment process. Developed as a learning project for software design and system modeling |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Hugging%20Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-blue?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)|![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-Evaluation-blueviolet?style=flat-square)
-![Prompt%20Engineering](https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=flat-square)
-![Token%20Counter](https://img.shields.io/badge/Token_Counter-00C853?style=flat-square)  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
-![OOP](https://img.shields.io/badge/Object_Oriented_Programming-00599C?style=flat-square)
-![GUI](https://img.shields.io/badge/Desktop_GUI-4CAF50?style=flat-square) |
-
-
+| **[MedBOT](https://github.com/ramen-sys/med_bot.git)**<br><br>RAG-powered medical chatbot using Hugging Face, LangChain, and FAISS to provide context-aware answers from medical knowledge sources.<br><br>![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | **[Prompt Comparator](https://github.com/ramen-sys/Prompt_Comparator.git)**<br><br>Streamlit application for comparing zero-shot, few-shot, and chain-of-thought prompting with live token usage analysis.<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-Evaluation-blueviolet?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=flat-square) | **[Car Rental System](https://github.com/ramen-sys/Car-Rental-System.git)**<br><br>PyQt6 desktop application demonstrating object-oriented design with customer management, rentals, payments, and automated late-return penalties.<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white) ![OOP](https://img.shields.io/badge/Object_Oriented_Programming-00599C?style=flat-square) ![GUI](https://img.shields.io/badge/Desktop_GUI-4CAF50?style=flat-square) |
 
 > 👉 See pinned repos below for live demos and code!
 
