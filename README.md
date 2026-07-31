@@ -1,12 +1,12 @@
 # Hi there! 👋 I'm RAMEEN SOHAIL
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Engineering systems,from hardware fundamentals to AI applications;Where computer systems meet intelligent software.;Exploring AI, backend engineering, and computer systems—one project at a time)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Engineering systems—from hardware fundamentals to AI applications;Where computer systems meet intelligent software;Building AI that's useful, explainable, and practical)(https://git.io/typing-svg)
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer with diverse interests spanning Web Development, AI/ML, and Computer Systems Engineering, with a focus on building intelligent software.
+I'm a passionate developer with diverse interests spanning Web Developement, AI/ML and Agentic AI ].
 
 * 💻 AI & Machine Learning
 * 🧠 Large Language Models (LLMs) & AI chatbots
@@ -14,11 +14,12 @@ I'm a passionate developer with diverse interests spanning Web Development, AI/M
 * 🌐 Web Application Development
 * 📱 Understanding Mobile & Web App Architecture
 * 🗄️ Databases & System Design
+* 🩺 Healthcare Technology
 * ☁️ Cloud Computing (growing interest)
 * 🚀 Building Real-World Software Projects
 * 🎯 Software Engineering & Problem Solving
 * 👥 Leadership (IEEE Student Branch)
-
+* 📚 Continuous Learning & Exploring New Technologies
 
 
 
