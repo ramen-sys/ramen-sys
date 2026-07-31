@@ -13,12 +13,10 @@ I'm a passionate developer with diverse interests spanning Web Developement, AI/
 * 🌐 Web Application Development
 * 📱 Understanding Mobile & Web App Architecture
 * 🗄️ Databases & System Design
-* 🩺 Healthcare Technology
 * ☁️ Cloud Computing (growing interest)
-* 🚀 Building Real-World Software Projects
 * 🎯 Software Engineering & Problem Solving
 * 👥 Leadership (IEEE Student Branch)
-* 📚 Continuous Learning & Exploring New Technologies
+
 
 
 
