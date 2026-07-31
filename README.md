@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [YOUR_NAME]
+# Hi there! 👋 I'm RAMEEN SOHAIL
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=[YOUR_TAGLINE_1];[YOUR_TAGLINE_2];[YOUR_TAGLINE_3])](https://git.io/typing-svg)
 
@@ -6,41 +6,78 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer with diverse interests spanning [YOUR_INTERESTS].
+I'm a passionate developer with diverse interests spanning Web Developement, AI/ML and Agentic AI ].
 
-- 🔭 Currently learning and building [YOUR_CURRENT_WORK]
-- 🎮 [YOUR_HOBBY_1]
-- 🤖 [YOUR_HOBBY_2]
-- 📱 [YOUR_HOBBY_3]
-- 💼 Open to collaboration and opportunities
-- 🧠 Interested in: [INTEREST_1], [INTEREST_2], [INTEREST_3]
+* 💻 AI & Machine Learning
+* 🧠 Large Language Models (LLMs) & AI chatbots
+* ⚙️ Backend Development (Python, Flask)
+* 🌐 Web Application Development
+* 📱 Understanding Mobile & Web App Architecture
+* 🗄️ Databases & System Design
+* 🩺 Healthcare Technology
+* ☁️ Cloud Computing (growing interest)
+* 🚀 Building Real-World Software Projects
+* 🎯 Software Engineering & Problem Solving
+* 👥 Leadership (IEEE Student Branch)
+* 📚 Continuous Learning & Exploring New Technologies
+
+
 
 ---
 
 ## ⭐ LATEST PROJECTS
 
-| [PROJECT_ICON_1] **[PROJECT_1_NAME]** | [PROJECT_ICON_2] **[PROJECT_2_NAME]** |
+| 🎙️ **[NEXUSVoice]** | 🤖 **[PackTrust]** |
 |---|---|
-| **[Project 1 Title](https://github.com/[YOUR_USERNAME]/[PROJECT_1_REPO])**<br/>Project 1 description goes here. Explain what it does and its key features. <br/><br/>![Badge1](https://img.shields.io/badge/Tech1-color?style=flat-square&logo=tech1&logoColor=white) ![Badge2](https://img.shields.io/badge/Tech2-color?style=flat-square&logo=tech2&logoColor=white) | **[Project 2 Title](https://github.com/[YOUR_USERNAME]/[PROJECT_2_REPO])**<br/>Project 2 description goes here. Highlight the main purpose and technology used. <br/><br/>![Badge3](https://img.shields.io/badge/Tech3-color?style=flat-square&logo=tech3&logoColor=white) ![Badge4](https://img.shields.io/badge/Tech4-color?style=flat-square&logo=tech4&logoColor=white) |
+| **[NEXUSVoice](https://github.com/ramen-sys/NEXUSVoice.git)**<br/>MCP-Powered Voice Agent with Database + Web Fallback , a fully local, intelligent voice agent . Using Whisper as an MCP tool, the agent transcribes speech directly from mic input, passes it to an LLM and from there, the real work begins. If the answer is present in your database, it fetches it immediately. If not, the agent doesn’t hallucinate <br/><br/>!![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square)
+![Whisper](https://img.shields.io/badge/Whisper-AI-10A37F?style=flat-square) | **[PackTrust](https://github.com/ramen-sys/PackTrust.git)**<br/>Multi-agent AI system that vets open-source packages in seconds, checks GitHub health, PyPI metadata, and real OSV.dev vulnerability data, then produces an auditable trust verdict. <br/><br/>!![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)
+![OSV.dev](https://img.shields.io/badge/OSV.dev-Vulnerability_DB-red?style=flat-square)
+![AI Agents](https://img.shields.io/badge/Multi--Agent_AI-000000?style=flat-square) |
 
 ---
 
 ## 🔥 MORE PROJECTS
 
-| 💎 **[Project 3](https://github.com/[YOUR_USERNAME]/[PROJECT_3_REPO])** | 🔄 **[Project 4](https://github.com/[YOUR_USERNAME]/[PROJECT_4_REPO])** | 🧠 **[Project 5](https://github.com/[YOUR_USERNAME]/[PROJECT_5_REPO])** |
+| 💎 **[HarvestHUB](https://github.com/ramen-sys/harvesthub_dbms.git)** | 🔄 **[RAMZ](https://github.com/ramen-sys/Huffman-Compression-System.git)** | 🧠 **[SENTRIX](https://github.com/ramen-sys/Machine-Failure-Prediction-System.git)** |
 |---|---|---|
-| Project 3 description. Brief explanation of what it does. | Project 4 description. What problem does it solve? | Project 5 description. Key features and technologies. |
-| ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) | ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) | ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) |
+|HarvestHUB is an agricultural field management system that connects farmers, agronomists, and admins through a role-based platform. It helps manage fields, crop cycles, satellite observations, weather data, alerts, and derived metrics  | An interactive Python implementation of Huffman coding for file compression. Uses heaps and trees to encode data efficiently, supports compression/decompression, maintains history logs, and compares performance with Python’s zlib | A Machine Failure Prediction System that Analyzes Machine characterstics and predicts whether it will fail or not |
+|![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-00599C?style=flat-square)
+![Data%20Structures](https://img.shields.io/badge/Data_Structures-4CAF50?style=flat-square)
+![Compression](https://img.shields.io/badge/Lossless_Compression-FF9800?style=flat-square) |![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)|
 
-| 📧 **[Project 6](https://github.com/[YOUR_USERNAME]/[PROJECT_6_REPO])** | 🩺 **[Project 7](https://github.com/[YOUR_USERNAME]/[PROJECT_7_REPO])** | 🧮 **[Project 8](https://github.com/[YOUR_USERNAME]/[PROJECT_8_REPO])** |
+| 📧 **[MedBOT](https://github.com/ramen-sys/med_bot.git)** | 🩺 **[Prompt Comparator](https://github.com/ramen-sys/Prompt_Comparator.git)** | 🧮 **[Car-Rental-System](https://github.com/ramen-sys/Car-Rental-System.git)** |
 |---|---|---|
-| Project 6 description with key highlights. | Project 7 description explaining the use case. | Project 8 description and what makes it special. |
-| ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) | ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) | ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) |
+| Medical Chatbot using Hugging Face, RAG, LAngchain and FAISS| a Streamlit app that compares zero-shot vs few-shot vs chain-of-thought side by side on the same input. With a token counter. Deployed it publicly with a real URL | A complete Car Rental System built in Python using OOP concepts. The system supports multiple cars, customer management, rental packages, rental limits (one car per user), late return fines, and a simulated online payment process. Developed as a learning project for software design and system modeling |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Hugging%20Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-blue?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)|![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Evaluation-blueviolet?style=flat-square)
+![Prompt%20Engineering](https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=flat-square)
+![Token%20Counter](https://img.shields.io/badge/Token_Counter-00C853?style=flat-square)  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
+![OOP](https://img.shields.io/badge/Object_Oriented_Programming-00599C?style=flat-square)
+![GUI](https://img.shields.io/badge/Desktop_GUI-4CAF50?style=flat-square) |
 
-| 📱 **[Project 9](https://github.com/[YOUR_USERNAME]/[PROJECT_9_REPO])** |
-|---|
-| Project 9 description. What technology or approach makes this interesting? |
-| ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) ![Tech2](https://img.shields.io/badge/Tech2-color?style=flat-square&logo=tech2&logoColor=white) |
+
 
 > 👉 See pinned repos below for live demos and code!
 
@@ -48,76 +85,77 @@ I'm a passionate developer with diverse interests spanning [YOUR_INTERESTS].
 
 ## 🏆 HIGHLIGHTS
 
-| 🎮 [Highlight 1] | 🤖 [Highlight 2] | 📱 [Highlight 3] | 🌐 [Highlight 4] |
+| 🤖 AI & ML | ⚙️ Backend Development | 💻 Digital Logic Design | 🖥️ Computer Organization |
 |---|---|---|---|
-| Description of highlight 1 | Description of highlight 2 | Description of highlight 3 | Description of highlight 4 |
+| Built AI agents, RAG applications, and LLM-powered tools using MCP, LangChain, and Hugging Face. | Developed REST APIs with FastAPI, Flask, PostgreSQL, JWT, and database-driven applications. | Applied combinational & sequential logic design through coursework and labs. | Explored RISC-V architecture, instruction execution, datapaths, control units, and processor design. |
 
 ---
 
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ramen-sys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramen-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=[YOUR_USERNAME]&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ramen-sys&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🐍 CONTRIBUTION SNAKE
 
-![github contribution grid snake animation](https://github.com/[YOUR_USERNAME]/[YOUR_USERNAME]/raw/output/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake animation](https://github.com/ramen-sys/ramen-sys/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ## 🛠 TECH STACK
 
-**Languages**
-
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Frameworks & Libraries**
+### ⚙️ Frameworks & AI
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-black?style=flat-square)
+![Hugging%20Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white)
+### 🧠 AI / ML
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**Databases & Backend Services**
-
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Developer Tools**
-
+### 🛠 Developer Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 
 ## 📫 CONNECT WITH ME
 
 <p align="center">
-  <a href="https://github.com/[YOUR_USERNAME]">
+  <a href="https://github.com/ramen-sys">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:[YOUR_EMAIL]">
+  <a href="mailto:srameen888@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN]/">
+  <a href="www.linkedin.com/in/rameen-sohail-5848b1325">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -125,9 +163,9 @@ I'm a passionate developer with diverse interests spanning [YOUR_INTERESTS].
 ---
 
 <p align="center">
-  <i>"[YOUR_QUOTE]"</i>
+  <i>"Engineering systems,from hardware fundamentals to AI applications"</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&color=D85A30&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ramen-sys&color=D85A30&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
