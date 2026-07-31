@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm RAMEEN SOHAIL
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Engineering systems—from hardware fundamentals to AI applications;Where computer systems meet intelligent software;Building AI that's useful, explainable, and practical)(https://git.io/typing-svg)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Engineering+systems+-+from+hardware+fundamentals+to+AI+applications;Where+computer+systems+meet+intelligent+software;Building+AI+that%27s+useful%2C+explainable%2C+and+practical)
 ---
 
 ## 👨‍💻 About Me
